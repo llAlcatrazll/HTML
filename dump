@@ -1,0 +1,127 @@
+<main>
+            <article id="top">
+                <h2>Heading 2</h2>
+                <nav aria-label="primary-navigation">
+
+                    <ul>
+                        <li><a href="#top">Learn about HTML</a>
+                        </li>
+                        <li><a href="#bottom">Learn more on HTML</a></li>
+                    </ul>
+                </nav>
+                <div>
+                    <figure>
+                        <figcaption> An Example of Daily Code</figcaption>
+                        <p>
+                            <code>
+                &lt;h1&gt;Hello World!&lt;/h1&gt;
+            </code>
+                        </p>
+                    </figure>
+                </div>
+                <section>
+                    <p>
+                        Sample Paragraph
+                        <br>... normal break <br>
+                        .. another normal break
+                    </p>
+                    <br>
+                    <h3>Heading 3</h3>
+                    <p>
+                        sample paragraph
+                    </p>
+                    <aside>
+                        <!--can be used for a drop down list-->
+                        <details>
+                            <summary>
+                                Guess the <mark>number of hours</mark> I code per day
+                            </summary>
+                            <p>
+                                I start at <time datetime="09:00">9am</time> and end until 4pm
+                            </p>
+                        </details>
+                    </aside>
+                </section>
+            </article>
+            <figure>
+                <img src="img/selfie1.jpg" alt="Selfie of friends" width="520" height="400" loading="lazy">
+                <figcaption>
+                    Selfie in Ambox with friends
+                </figcaption>
+            </figure>
+            <hr>
+            <article id="bottom">
+                <h2>Heading 2</h2>
+                <p>
+                    Paragraph
+                    <br>
+                    body <em>test emphasis</em> <br>
+                    normal text
+                </p>
+                <h3>Heading 3</h3>
+                <p>
+                    body
+                    <br>
+                    random text
+                    <strong>&nbsp;&nbsp;&nbsp;Strong text with indention</strong>
+                    <br>&lt;&lt;&lt;&copy; <abbr title="Alcatraz Excursion Inc">Alcatraz</abbr> &gt;&gt; &gt;
+
+                <address>
+
+                    Sample of text address<br>
+                    0040 San Agustin Highway Digos City <br>
+                    Davao Del Sur XI<br>
+                    CJC Sacred Heart Avenue
+                </address>
+                <figure>
+                    <img src="img/selfie2.jpg" alt="Another selfie with friends" width="300" title="Food was delicious"
+                        loading="lazy">
+
+                    <figcaption>
+                        Ambox food travel
+                    </figcaption>
+                </figure>
+                <!--this is a comment-->
+                <h2>Lists</h2>
+                <p> List </p>
+                <ol>
+                    <li> ordered list 1</li>
+                    <li> ordered list 2</li>
+                    <li> ordered list 3</li>
+                </ol>
+                <p>Unordered List</p>
+                <ul>
+                    <li> Unordered list 1</li>
+                    <li> Unordered list 2</li>
+                    <li> Unordered list 3</li>
+                </ul>
+
+
+
+            </article>
+
+        </main>
+
+        <h2>Description Details</h2>
+        <dl>
+            <dt>Item 1</dt>
+            <dd>Description of item 1</dd>
+            <dt>Item 2</dt>
+            <dd>Description of item 2</dd>
+        </dl>
+
+        <h2>Hypertext</h2>
+        <abbr title="Learning WEb dev"><a
+                href="https://www.reddit.com/r/learnprogramming/comments/u2it0j/best_place_to_learn_html_css_fundamentals/">Learning</a></abbr>
+        <footer>
+            <h1>Page linking</h1>
+            <p> &lt;&lt;&lt;<a href="about.html">Navigate</a>&gt;&gt;&gt;
+                <br>
+            </p>
+            <p>
+                <a href="#top">back to the top</a>
+            </p>
+            <span>
+
+            </span>
+        </footer>

@@ -1,0 +1,144 @@
+html {
+    font-size: 22px;
+  }
+  body {
+    background-color: #333;
+    color: whitesmoke;
+    margin: 0 auto;
+  }
+a{
+    color: cyan;
+}
+a:visited{
+    color: lightgray;
+}
+a:hover{
+    color: greenyellow;
+}
+table, tr, th, td, caption{
+  border: 2px solid #eee;
+  font-family: 'Courier New', Courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+  margin-top: 0;
+}
+.center{
+  margin:auto;
+  width: 75%;
+  padding: 10px;
+}
+.first{
+
+  font-size: 80px;
+  font-weight: 100;
+  color: bisque;
+}
+.second{
+  font-size: 60px;
+  font-weight: 100;
+  color: bisque;
+}
+
+.ccis{
+  font-size: 50px;
+  margin-top: 0%;
+}
+.eveything{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.image{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.days_sgw24{
+  color: goldenrod;
+  font-weight: 800;
+  font-size: large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sched_w242rfad{
+  color: yellow;
+}
+.sched_w242rfad:hover{
+  color: pink;
+}
+
+.header_2423ds{
+  color: yellowgreen;
+}
+.topstuff_1sdf3fw{
+margin-top: 0;
+margin-bottom: 20;
+  
+}
+.topstuff_2sdf3fw{
+  margin-top: 0;
+  margin-bottom: 0;
+    
+  }
+  .location_bfewh{
+    font-size: 15px;
+  }
+.nbfmdsl{
+  max-width: 10px;
+}
+.columns{
+  float: left;
+  width: 33.33%;
+
+}
+.left{
+  float: left;
+  width: 33.33%;
+}
+.FAQrow{
+  background-color: 303030;
+}
+.missions{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.column_wrgew{
+  float: left;
+  width: 50%;
+  font-size: 40px;
+}
+.Facultyandstaff{
+  font-size: 22px;
+  margin-bottom: 0px;
+}
+.subfacultyandstaff{
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-style: italic;
+}
+.location_bfewh2{
+  font-size: 17px;
+}
+.centerimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  border-radius: 10%;
+}
+.column_wrgew2{
+  float: left;
+  width: 33.33%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.designsimg{
+  width: 300px;
+  height: 800px;
+}
+.black{
+  color: black;
+}
